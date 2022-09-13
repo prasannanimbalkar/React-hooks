@@ -4,16 +4,16 @@ https://www.youtube.com/watch?v=TNhaISOUy6Q&t=3s
 
 
 # Basic Hooks
-useState.
-useEffect
-useContext
+useState<br />
+useEffect<br />
+useContext<br />
 
 # Additional Hooks
 
-useReducer
-useCallback
-useMemo
-useRef
-useImperativeHandle
-useLayoutEffect
-useDebugValue
+useReducer<br />
+useCallback<br />
+useMemo<br />
+useRef<br />
+useImperativeHandle<br />
+useLayoutEffect<br />
+useDebugValue<br />
